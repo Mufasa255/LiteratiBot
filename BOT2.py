@@ -3,7 +3,7 @@ from telegram import Update
 from typing import Final
 import logging
 
-TOKEN: Final = '8078390536:AAEUXHrsdg7IjUCG1kfi73RplQHADy6hSFE'
+TOKEN: Final = '######'
 BOT_USERNAME: Final = '@TheLiteratiBot'
 
 # Setup logging
